@@ -1,0 +1,16 @@
+1) php artisan make:model -a  => will create model,migration,factory ,seeder,request,controller,policy //-a = all
+2)in laravel there is a rate limit for url 60 request per minute
+3)the kernel file is like the file where we put roles of request
+ThrottleRequests is responsible of how many request
+
+
+4)authentication :
+    1)session
+    2)token:
+        a)passport (in laravel)
+        b)sanctum
+        c) tymon jwt
+
+
+
+141
